@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+%F0%9F%91%8B,+I+am+Anurag+Thakur;UI/UX+Designer;Full+Stack+Java+Developer;Software+Engineer;Game+Dev+Enthusiastic;Lifelong+Learner!&center=true&width=500&height=50&color=58a6ff&vCenter=true&size=20">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+%F0%9F%91%8B,+I+am+Anurag+Thakur;UI/UX+Designer;Front+End+Developer;Game+Dev+Enthusiastic;Lifelong+Learner!&center=true&width=500&height=50&color=58a6ff&vCenter=true&size=20">
 </p>
 
 <h1 align="center">Welcome to My GitHub!</h1>
